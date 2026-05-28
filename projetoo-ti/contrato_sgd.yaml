@@ -1,0 +1,12 @@
+perfil_sgd:
+  nome_completo:
+    obrigatorio: true
+
+  cpf:
+    obrigatorio: true
+
+  perfil_solicitado:
+    obrigatorio: true
+
+  justificativa:
+    obrigatorio: true

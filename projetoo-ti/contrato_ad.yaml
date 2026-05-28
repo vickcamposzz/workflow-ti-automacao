@@ -1,0 +1,15 @@
+criar_ad:
+  nome_completo:
+    obrigatorio: true
+
+  cpf:
+    obrigatorio: true
+
+  setor:
+    obrigatorio: true
+
+  telefone:
+    obrigatorio: true
+
+  comprovante_endereco:
+    obrigatorio: true
