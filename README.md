@@ -162,4 +162,4 @@ validar_pdf_extraido(dados)
 
 Ana Vitória Campos da Silva
 
-Projeto acadêmico desenvolvido para disciplina de Workflow, Agentes e Automação com IA.
+Projeto acadêmico desenvolvido para disciplina de Inteligencia Artificial.
